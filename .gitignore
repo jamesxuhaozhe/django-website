@@ -3,3 +3,7 @@
 *.iml
 
 *.pyc
+
+db.sqlite3
+music/migrations/*
+
